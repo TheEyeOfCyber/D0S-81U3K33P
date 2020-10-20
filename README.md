@@ -23,9 +23,7 @@ Installation instructions :
 
 <p><b>#Author :#Humayun Ali Khan #Mammona Aslam</p></b>
 
-<p>
-  <p><b>Youtube: <a href= "https://www.youtube.com/c/theeyeofcyberbuckeyesecurityofficial" rel="nofollow"></p></b>
-   <p><b>Fb Group: <a href= "https://www.facebook.com/groups/theeyeofcyberbuckeyesecurtiy/?ref=share" rel="nofollow"></p></b>
-     </a>
-     </a>
-</p>
+<p></b>
+  <p><b>Youtube: https://www.youtube.com/c/theeyeofcyberbuckeyesecurityofficial</p></b>
+   <p><b>Fb Group: https://www.facebook.com/groups/theeyeofcyberbuckeyesecurtiy/</p></b>
+</p></b>
